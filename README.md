@@ -1,5 +1,6 @@
 # Serverless Webpack
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/70739b70e28a4624905952be501c6f66)](https://www.codacy.com/app/mrdrumhead/serverless-webpack?utm_source=github.com&utm_medium=referral&utm_content=Pathship/serverless-webpack&utm_campaign=badger)
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![CircleCI](https://circleci.com/gh/elastic-coders/serverless-webpack.svg?style=shield)](https://circleci.com/gh/elastic-coders/serverless-webpack)
 
